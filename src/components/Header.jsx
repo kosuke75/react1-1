@@ -6,7 +6,7 @@ export default function Header() {
     <header>
       <h1>Birdwatching</h1>
       <div className="logo">
-        <img src="./public/images/dove.png" alt="bird icon" className="bird-icon" />
+        <img src="/images/dove.png" alt="bird icon" className="bird-icon" />
       </div>
       <Navigate />
     </header>
